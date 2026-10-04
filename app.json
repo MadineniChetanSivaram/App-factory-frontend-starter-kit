@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Universal App",
+    "slug": "universal-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0F172A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.universal.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F172A"
+      },
+      "package": "com.universal.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
