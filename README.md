@@ -1,4 +1,4 @@
-# Universal App Starter Kit
+# Frontend App Starter Kit
 > **A Production-Ready Multi-Platform Client Template for React Native, Expo & Web**
 
 This is a standalone, domain-neutral starter kit. You can use it to build any application:
